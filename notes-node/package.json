@@ -1,0 +1,23 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ZonaClark/learn-node.git"
+  },
+  "author": "Zona Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZonaClark/learn-node/issues"
+  },
+  "homepage": "https://github.com/ZonaClark/learn-node#readme",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "yargs": "^11.0.0"
+  }
+}
