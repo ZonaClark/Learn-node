@@ -2,3 +2,4 @@ node-web-server/node_modules
 node-web-server/server.log
 notes-node/node_modules
 weather-app/node_modules
+node-test/node_modules
