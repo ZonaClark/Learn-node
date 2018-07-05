@@ -15,4 +15,4 @@ module.exports.handleSignup = (email, password) => {
 /*
 Spies let you to swap out a real function to a testing utility. When the test
 function gets called, you can create various assertions.
-*/
+*/  
